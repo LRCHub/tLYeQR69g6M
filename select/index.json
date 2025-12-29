@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "うたげ☆独壇場！",
+  "base_artist": "百鬼あやめ",
+  "createdAt": "2025-12-29T05:55:39.602708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "うたげ☆独壇場！",
+      "artist": "百鬼あやめ",
+      "has_synced": true,
+      "path": "select/01_うたげ☆独壇場!_百鬼あやめ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うたげ☆独壇場!",
+      "artist": "百鬼あやめ",
+      "has_synced": false,
+      "path": "select/pl_01_うたげ☆独壇場!_百鬼あやめ.txt"
+    }
+  ]
+}
